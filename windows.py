@@ -12,7 +12,7 @@ root.title('Погода')
 root.geometry('300x400')
 
 def sinh_pog():
-    """Синхронно вызываем get запрос 100 раз"""
+    """Вызываем get запрос 1 раз"""
 
     #Ссылка на сайт
     url='https://www.meteovesti.ru/pogoda_10/29947'
