@@ -6,7 +6,7 @@ import requests
 root = Tk()
 
 #Название окна
-root.title('Погода от Плеса')
+root.title('Погода')
 
 #Размеры окна
 root.geometry('300x400')
